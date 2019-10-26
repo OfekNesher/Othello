@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.OthelloLogic", "Ex05.OthelloLogic\Ex05.OthelloLogic.csproj", "{51E1A593-D355-4ACD-A9C4-5B1E3567DD3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.WindowsUI", "Ex05.WindowsUI\Ex05.WindowsUI.csproj", "{E4B67A9D-809C-4CA0-918C-BAD8A266D833}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{494E7A59-D1F3-4B5F-BFC8-9FE5C8FF8A57}"
+	ProjectSection(SolutionItems) = preProject
+		B19 Ex05 Ofek 311247753 Eliyahu 311328900.txt = B19 Ex05 Ofek 311247753 Eliyahu 311328900.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E1A593-D355-4ACD-A9C4-5B1E3567DD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E1A593-D355-4ACD-A9C4-5B1E3567DD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E1A593-D355-4ACD-A9C4-5B1E3567DD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E1A593-D355-4ACD-A9C4-5B1E3567DD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B67A9D-809C-4CA0-918C-BAD8A266D833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B67A9D-809C-4CA0-918C-BAD8A266D833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B67A9D-809C-4CA0-918C-BAD8A266D833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B67A9D-809C-4CA0-918C-BAD8A266D833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
